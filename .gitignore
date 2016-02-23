@@ -1,0 +1,6 @@
+logs/*
+!.gitkeep
+db.sqlite3
+tmp
+.DS_Store
+.idea
